@@ -1,0 +1,25 @@
+{
+  "name": "club-theme-simple",
+  "version": "0.0.1",
+  "description": "canner can",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Canner-can/club-theme-simple"
+  },
+  "keywords": [
+    "canner-can"
+  ],
+  "author": "chihsuan",
+  "contributors": [{
+    "name": "ctxhou",
+    "email": "vjack070707@gmail.com"
+  }]
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Canner-can/club-theme-simple/issues"
+  },
+  "homepage": "https://github.com/Canner-can/club-theme-simple"
+}

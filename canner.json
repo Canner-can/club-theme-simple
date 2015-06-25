@@ -1,0 +1,33 @@
+{
+    "layout": "./index.hbs",
+    "data": {
+        "title": "劍道社",
+        "website": "http://www.canner.io",
+        "news": {
+            "title": "最新消息",
+            "posts": [
+                {
+                    "title": "7/25 - 7/31",
+                    "content": "暑假集訓，有豐富的活動、食物，等著大家參與唷！"
+                },
+                {
+                    "title": "6/30",
+                    "content": "晚上揪團吃飯"
+                }
+
+            ]
+        },
+        "about": {
+            "title": "關於我們",
+            "photoLink": "https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Students_of_Kendo_Club_of_Da_Ji_Junior_High_School_2006-12-1.jpg",
+            "content": "本社團成立於2010年，固定社課時間為星期三..."
+        },
+        "contact": {
+            "infoList": [
+                {"info": "Email: club@mail.com"},
+                {"info": "地址： XX市中正路..."}
+            ],
+            "contactNote": "Please feel free to contact us for any further information..."
+        }
+    }   
+}
